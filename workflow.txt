@@ -1,7 +1,9 @@
 1. Shaun forked the repo, copied the app folder into a new repo
 2. Initialized the empty repo, added the the workflow.txt
 3. Chance cloned down the repo
+
 4. Chance generates first task and performs it.
+  a.  Chance edited 5 css properties.
 5. Chances pushes to GitHub, Shaun pulls it down.
 6. Shaun generates second task and performs it and pushes changes to GitHub.
-7. Chance pulls it down, repeat steps 4-6 four more times. 
+7. Chance pulls it down, repeat steps 4-6 four more times.

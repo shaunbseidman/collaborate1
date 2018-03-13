@@ -21,3 +21,12 @@ nav a {
   color: darkgrey;
   font-size:
 }
+
+#poop {
+  color: Blue;
+  font-size: 42px;
+  border: 4px;
+  border-width: thick;
+  border-color: grey;
+  text-shadow: 3px;
+}
