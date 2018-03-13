@@ -8,4 +8,5 @@
 5. Chances pushes to GitHub, Shaun pulls it down.
 6. Shaun generates second task and performs it and pushes changes to GitHub.
   a. Created new directory and moved item in to it (about.html moved in to about folder)
+  b. Deleted about.html
 7. Chance pulls it down, repeat steps 4-6 four more times.
