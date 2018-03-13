@@ -4,6 +4,8 @@
 
 4. Chance generates first task and performs it.
   a.  Chance edited 5 css properties.
+  b.  Added paragraph to html file (added to index.html)
 5. Chances pushes to GitHub, Shaun pulls it down.
 6. Shaun generates second task and performs it and pushes changes to GitHub.
+  a. Created new directory and moved item in to it (about.html moved in to about folder)
 7. Chance pulls it down, repeat steps 4-6 four more times.
